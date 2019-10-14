@@ -1,4 +1,4 @@
-#Snake Game
+# Snake Game
 
 ## To run this game, you might need to setup python on your system.
 
